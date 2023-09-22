@@ -1,2 +1,3 @@
-# challenger_countdown_clock
+# Challenger Countdown Clock
+
 Countdown Clock for the Challenger Learning Center in St. Louis. 
