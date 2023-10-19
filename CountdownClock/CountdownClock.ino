@@ -225,6 +225,7 @@ void displayBlastoffText()
       timerState=SETTING;
       startTime=0;
       countDownTime=0;
+      hue=0;
       break;
     }
   }
